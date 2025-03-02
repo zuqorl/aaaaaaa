@@ -1,2 +1,2 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Lib = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
