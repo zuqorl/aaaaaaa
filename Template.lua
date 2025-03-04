@@ -20,6 +20,7 @@ tab1.newToggle("Auto Race", "Toggle! (prints the state)", false, function(state)
     if game:GetService("Players").LocalPlayer.PlayerGui.Menu.Race.Visible == false then
         local chr = game.Players.LocalPlayer.Character
     local car = chr.Humanoid.SeatPart.Parent.Parent
+    car:PivotTo(CFrame.new(1049.2476806640625, 609.7359008789062, 2511.8427734375))
     chr.Head.Anchored = true
     wait(1)
     chr.Head.Anchored = false
