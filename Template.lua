@@ -1,5 +1,4 @@
--- Check the game:
-if game.PlaceId == 1554960397 then
+
     local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/zuqorl/CDStorm/refs/heads/main/UIdesign.lua"))()
    
     -- Create a new window and set its title and theme
