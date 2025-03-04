@@ -9,7 +9,7 @@ local window = DrRayLibrary:Load("CDTStorm", "Default")
 local tab1 = DrRayLibrary.newTab("Information", "ImageIdHere")
 
 -- The first Tab + elements
-local tab = DrRayLibrary.newTab("Test Farming", "ImageIdHere")
+local tab1 = DrRayLibrary.newTab("Test Farming", "ImageIdHere")
 
 tab1.newLabel("Information's Tab")
 
